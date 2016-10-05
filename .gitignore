@@ -1,0 +1,8 @@
+*.pyc 
+_pycache__ 
+djenv 
+db.sqlite3 
+/static 
+.DS_Store 
+crepes_bretonnes/ 
+crepes_bretonnes_design/ 
